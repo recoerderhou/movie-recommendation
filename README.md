@@ -18,6 +18,6 @@ easygui
 - baseline.py: a simple collaborative filtering algorithm
 - knn.py: the simple implementation of KNN algorithm
 - markov.py: the simple implementation of vanilla markov chain clgorithm.
-- mlmodel_all.py: 
-svd++.py: the implementation of svd++ algorithm.
-svd.py: the implementation f svd algorithm.
+- mlmodel_all.py: the implementation of different kind of KNN, SVD and SVD++ using surprise library. Used grid search to find the best hyper parameter.
+- svd++.py: the implementation of svd++ algorithm.
+- svd.py: the implementation f svd algorithm.
