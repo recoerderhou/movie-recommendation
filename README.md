@@ -5,6 +5,10 @@ this is a movie recommendation on MovieLens dataset.
 ### Requirement
 ```
 pytorch
+numpy
+pandas
+surprise
+easygui
 ```
 
 ### Code
